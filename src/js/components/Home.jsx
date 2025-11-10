@@ -16,15 +16,15 @@ function Home() {
 			<Navbar />
 			<div className="container text-center">
 				<div className="row align-items-start">
-					<div className="col-12"><Cajón/></div>
+					<div className="col-12"><Cajón /></div>
 				</div>
-				<div className="row align-items-start" style={{ marginTop: "1em" }}>
-					<div className="col"><Cajas/></div>
-					<div className="col"><Cajas/></div>
-					<div className="col"><Cajas/></div>
+				<div className="row align-items-start">
+					<Cajas />
+					<Cajas />
+					<Cajas />
 				</div>
 			</div>
-			<Narbarbajo/>
+			<Narbarbajo />
 		</>
 
 	);
