@@ -18,7 +18,7 @@ function Home() {
 				<div className="row align-items-start">
 					<div className="col-12"><Cajón /></div>
 				</div>
-				<div className="row align-items-start">
+				<div className="row">
 					<Cajas />
 					<Cajas />
 					<Cajas />

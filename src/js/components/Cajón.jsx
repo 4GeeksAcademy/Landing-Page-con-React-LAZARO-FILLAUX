@@ -2,8 +2,6 @@ import React from "react";
 
 function Cajón() {
     return (
-        <div class="row">
-            <div class="col-sm-6 mb-3 mb-sm-0">
                 <div className="card">
                     <div className="card-body">
                         <h1 className="card-title">NUEVA PÁGINA DE PROYECTO REACT</h1>
@@ -13,8 +11,6 @@ function Cajón() {
                         <a href="#" className="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
-            </div>
-        </div>
     )
 
 
